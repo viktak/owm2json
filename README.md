@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/viktak/owm2json) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/viktak/owm2json) ![PyPI](https://img.shields.io/pypi/v/owm2json) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/owm2json) ![PyPI - Format](https://img.shields.io/pypi/format/owm2json)  ![GitHub Repo stars](https://img.shields.io/github/stars/viktak/owm2json?style=social)
+![GitHub](https://img.shields.io/github/license/viktak/owm2json) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/viktak/owm2json) ![PyPI](https://img.shields.io/pypi/v/owm2json) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/owm2json) ![PyPI - Format](https://img.shields.io/pypi/format/owm2json)
 
 # owm2json package
 
